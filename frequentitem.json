@@ -1,0 +1,17 @@
+{  
+    "arrayItems":[
+        { 
+        "Name": "Array 1", 
+        "items": [3, 5,"k","k",7,5,"k","k"] 
+        }, 
+        { 
+        "Name": "Array 2", 
+        "items": ["spiderman", "spiderman" ,4,8,6,4,"spiderman",4,4,"batman"] 
+        }, 
+        { 
+        "Name": "Array 3", 
+        "items": ["apple", "apple",1,"orange",1] 
+        }
+    ] 
+}
+ 
